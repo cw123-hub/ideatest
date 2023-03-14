@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/src/smallprogram/Hello1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/smallprogram/House/utils/Utility.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
